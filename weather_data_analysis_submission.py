@@ -8,8 +8,8 @@ This script demonstrates:
 3. Creating various visualizations
 4. Statistical analysis of weather patterns
 
-Author: [Your Name]
-Date: [Current Date]
+Author: Joane Aristilde
+Date: July 12, 2025
 """
 
 # Import required libraries
